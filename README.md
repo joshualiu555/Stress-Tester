@@ -15,5 +15,8 @@ I wanted to create a tool that allowed Java users (although I used C++) to stres
 
 ## How To Run
 
+The project uses Java 21 and JavaFX 21.0.2
 
+Run `mvn clean javafx:run` in the root of the directory
 
+Use this [link](https://www.jetbrains.com/help/idea/javafx.html#package-app-with-jlink) to package the application into a .jar file
